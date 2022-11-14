@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakshitgarg99&label=Profile%20views&color=0e75b6&style=flat" alt="rakshitgarg99" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning Projects**
+- 🔭 I’m currently working on **End-to-End Deep Learning and NLP Projects**
 
 - 🌱 I’m currently learning **Rapids AI, Data structures and Algorithms.**
 
