@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakshitgarg99&label=Profile%20views&color=0e75b6&style=flat" alt="rakshitgarg99" /> </p>
 
-- 🔭 I’m currently working on **End-to-End Deep Learning and NLP Projects**
+- 🔭 I’m currently working on **Lang chain agents Projects**
 
-- 🌱 I’m currently learning **Rapids AI, Data structures and Algorithms.**
+- 🌱 I’m currently learning **GPT and transformers learning**
 
-- 👯 I’m looking to collaborate on **Research and Backend development(django) projects**
+- 👯 I’m looking to collaborate on **Research and AGI projects**
 
-- 🤝 I’m looking for help with **cracking coding rounds.**
+- 🤝 I’m looking for help with **getting a data scientist position**.
 
-- 📫 How to reach me **rakshitgarg99@gmail.com**
+- 📫 How to reach me **rakshitonwork@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
